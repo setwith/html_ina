@@ -14,7 +14,7 @@ Just type
 GetHtml.get(content, bypass_html: true)
 ```
 
-in your code and transfer content to Heredoc.
+into your code and transfer content to Heredoc.
 
 [How To Use Heredoc in Ruby](https://www.rubyguides.com/2018/11/ruby-heredoc/)
 
